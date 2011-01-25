@@ -30,7 +30,7 @@ you want.
 
 # AUTHOR
 
-Andrew Nelson, C<< <anelson at cpan.org> >>
+Andrew Nelson, <anelson at cpan.org>
 
 # COPYRIGHT & LICENSE
 
